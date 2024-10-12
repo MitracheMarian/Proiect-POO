@@ -4,4 +4,5 @@ Programul va contine un fisier in care se vor gasi informatii despre tutorialele
 - descriere
 - durata
 - topic
+
 Tutorialele vor fi ordonate in functie de topicul din care fac parte.
