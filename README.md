@@ -7,11 +7,13 @@ Programul va contine un fisier in care se vor gasi informatii despre tutorialele
 
 Tutorialele vor fi ordonate in functie de topicul din care fac parte.
 
+
 Platforma va avea un meniu de logare:
 -Administrator
 -Profesor
 -Student
 -Vizitator
+
 
 Fiecare categorie de persoane va avea anumite atribute cum ar fi: 
 -Administratorul poate adauga persoane sau sa le stearga, sa adauge tutoriale video sau sa le stearga, sa acceseze un istoric al cautarilor studentilor;
