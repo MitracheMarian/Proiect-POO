@@ -3,8 +3,7 @@
 Programul va contine un fisier in care se vor gasi informatii despre tutorialele video. Acestea vor fi asezate in mai multe categorii. Fiecare tutorial video va avea:
 - descriere
 - durata
-- topic: - O tema trebuie sa fie impartita in topicuri;
-         - Fiecare topic va fi impartit in mai multe tutoriale;
+- topic: - O tema trebuie sa fie impartita in topicuri. Fiecare topic va fi impartit in mai multe tutoriale;
 
 Tutorialele vor fi ordonate in functie de topicul din care fac parte. Va exista si un sistem prin care se va retine cate persoane au vizualizat un tutorial, si pentru fiecare student in parte se va bifa tutorialul parcurs.
 
