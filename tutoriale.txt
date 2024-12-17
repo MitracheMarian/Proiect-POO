@@ -1,0 +1,26 @@
+5
+1
+Programare
+Introducere in C++
+Un tutorial de baza pentru limbajul de programare C++
+2
+2
+Programare
+Structuri de Date
+Invata despre structuri de date precum liste si arbori
+2
+3
+Phyton
+Introducere in phyton
+Invata sa codezi in PHYTON
+5
+4
+Design Grafic
+Bazele Adobe Photoshop
+Introducere in editarea imaginii folosind Adobe Photoshop
+0
+5
+Design Grafic
+Tehnici de Ilustratie Digitala
+Sfaturi si tehnici pentru ilustratia digitala
+0
