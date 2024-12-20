@@ -128,8 +128,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="admin.cpp" />
+    <ClCompile Include="incarcare&amp;actualizare.cpp" />
     <ClCompile Include="incarcare&amp;actualizare.h" />
+    <ClCompile Include="istoric.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="platforma.cpp" />
+    <ClCompile Include="student.cpp" />
+    <ClCompile Include="tutorial.cpp" />
+    <ClCompile Include="utilizator.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="admin.h" />
@@ -143,10 +150,6 @@
     <Text Include="istoric.txt" />
     <Text Include="tutoriale.txt" />
     <Text Include="utilizatori.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include=".gitignore" />
-    <None Include="README.md" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

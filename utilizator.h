@@ -10,21 +10,10 @@ private:
 	string pass;
 
 public:
-	Utilizator() {
+	Utilizator();
+	Utilizator(string type, string user, string pass);
 
-	}
-
-	Utilizator (string type, string user, string pass ) : type(type), user(user), pass(pass) {}
-
-	string getType() {
-		return type;
-	}
-
-	string getUser() {
-		return user;
-	}
-
-	string getPass() {
-		return pass;
-	}
+	string getType();
+	string getUser();
+	string getPass();
 };

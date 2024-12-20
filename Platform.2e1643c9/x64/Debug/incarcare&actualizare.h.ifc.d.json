@@ -1,7 +1,7 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\nick\\source\\repos\\mitrachemarian\\proiect-poo\\incarcare&actualizare.h",
+        "Source": "c:\\users\\nick\\desktop\\proiect-poo\\proiect-poo\\proiect-poo\\platforma de tutoriale video\\incarcare&actualizare.h",
         "ProvidedModule": "",
         "Includes": [
             "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.41.34120\\include\\iostream",
@@ -118,9 +118,9 @@
             "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.41.34120\\include\\string",
             "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.41.34120\\include\\fstream",
             "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.41.34120\\include\\__msvc_filebuf.hpp",
-            "c:\\users\\nick\\source\\repos\\mitrachemarian\\proiect-poo\\utilizator.h",
-            "c:\\users\\nick\\source\\repos\\mitrachemarian\\proiect-poo\\tutorial.h",
-            "c:\\users\\nick\\source\\repos\\mitrachemarian\\proiect-poo\\istoric.h"
+            "c:\\users\\nick\\desktop\\proiect-poo\\proiect-poo\\proiect-poo\\platforma de tutoriale video\\utilizator.h",
+            "c:\\users\\nick\\desktop\\proiect-poo\\proiect-poo\\proiect-poo\\platforma de tutoriale video\\tutorial.h",
+            "c:\\users\\nick\\desktop\\proiect-poo\\proiect-poo\\proiect-poo\\platforma de tutoriale video\\istoric.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

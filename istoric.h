@@ -11,25 +11,11 @@ private:
 	string time;
 
 public:
-	Istoric() {
+	Istoric();
+	Istoric(string user, int id, string date, string time);
 
-	}
-
-	Istoric(string user, int id, string date, string time) : user(user), id(id), date(date), time(time) {}
-
-	string getUser() {
-		return user;
-	}
-
-	int getId() {
-		return id;
-	}
-	
-	string getDate() {
-		return date;
-	}
-
-	string getTime() {
-		return time;
-	}
+	string getUser();
+	int getId();
+	string getDate();
+	string getTime();
 };
