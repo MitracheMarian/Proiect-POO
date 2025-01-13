@@ -55,6 +55,7 @@ void Platforma::lista_tutoriale() {
 }
 void Platforma::logare(string user, string pass) {
 
+	bool ok = 0;
 	for (auto& u : utilizatori) {
 		if (u.getUser() == user) {
 			if (u.getPass() == pass) {
@@ -69,11 +70,19 @@ void Platforma::logare(string user, string pass) {
 			}
 			else {
 				cout << endl << "ERROR: Parola incorecta!";
+				ok = 1;
+				break;
 			}
 		}
 		else {
 			cout << endl << "ERROR: User-ul nu a fost gasit!";
+			ok = 1;
+			break;
 		}
+	}
+	if (ok == 1) {
+		cout << endl << "Apasati orice tasta pentru a reveni...";
+		_getch();
 	}
 }
 void Platforma::citireDateDeLogare() {
